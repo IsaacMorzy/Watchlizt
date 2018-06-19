@@ -1,0 +1,2 @@
+MOVIE_API_KEY = '431df6f55af1fb87da05d754f89e16f6'
+SECRET_KEY = 'kitu'
